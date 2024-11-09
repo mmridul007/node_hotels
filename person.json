@@ -1,0 +1,18 @@
+// {
+//     "name":"Efat",
+//     "age": 19,
+//     "work": "chef",
+//     "mobile":"01787365836",
+//     "email":"efat@gmail.com",
+//     "address":"Khilkhet, Nikunja",
+//     "salary":20000
+// }
+
+{
+    "name":"Beef Khicuri",
+    "price": 250,
+    "taste": "spicy",
+    "is_drink":"false",
+    "ingredients":"[rice, beef, daal, chilli]",
+    "num_sales":2000
+}
